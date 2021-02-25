@@ -1,0 +1,21 @@
+F:\gt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\gt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\gt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Graphics Tool.csprojResolveAssemblyReference.cache
+F:\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Graphics Tool.csproj.GenerateResource.Cache
+F:\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\poorvi\Desktop\project\gt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\poorvi\Desktop\project\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\poorvi\Desktop\project\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\mca sem-2 prac\al\project_Gt\gt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\mca sem-2 prac\al\project_Gt\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\mca sem-2 prac\al\project_Gt\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\mca sem-2 prac\al\project_Gt\gt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\mca sem-2 prac\al\project_Gt\gt\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\mca sem-2 prac\al\project_Gt\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Graphics Tool.csprojResolveAssemblyReference.cache
+F:\mca sem-2 prac\al\project_Gt\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\mca sem-2 prac\al\project_Gt\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\mca sem-2 prac\al\project_Gt\gt\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Graphics Tool.csproj.GenerateResource.Cache
